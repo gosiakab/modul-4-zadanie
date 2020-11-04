@@ -1,0 +1,31 @@
+/* Global */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.poem-title {
+  font-weight: bold;
+  color: olive;
+  text-align: center;
+  justify-content: center;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+.poem-author {
+  font-weight: bold;
+  font-style: italic;
+  color: crimson;
+  text-align: center;
+  justify-content: center;
+  font-family: sans-serif;
+  font-size: 28px;
+}
+.poem {
+  text-align: center;
+  justify-content: center;
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 1.7;
+}
